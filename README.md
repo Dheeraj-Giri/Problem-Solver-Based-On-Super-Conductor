@@ -1,12 +1,14 @@
 
 # Problem-Solver-Based-On-Super-Conductor
 
+Hi, I'm Dheeraj ! 👋
+
 ![](https://img.shields.io/badge/Build-Passing-sliver.svg)
 
 **Solve the problem based on super-condutor** 
  
  
- ## How to use
+ ## 🤔 How to use :
 
 - select your problem based on which type.
 - select what you want to find out.
@@ -14,14 +16,14 @@
 - Just Enter and you will get answer of your problem.
 
 
-## Feature
+## 🚀 Feature :
 
 ![](https://img.shields.io/badge/Services-Provided-blue.svg?style=flat-square)
 
 - It solve the Maximum all problem based on super-conducotor.
 - It is easy to use.
 
-## Prerequisites
+## 🛠 Prerequisites :
 
 **Be sure you have the following installed on your development machine:**
 
@@ -58,6 +60,11 @@ git clone https://github.com/Dheeraj-giri/Problem-Solver-Based-On-Super-Conducto
 
 ```
 
+
+
+## Documentation
+
+[Python 3.10](https://docs.python.org/3/)
 
 
 
